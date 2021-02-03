@@ -1,6 +1,6 @@
-# separ #
+# cookiecutter #
 
-Welcome to separ!
+Welcome to cookiecutter!
 
 ## Contribution policy ##
 
